@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+cards:
   message: "Cards Service - PROD"
   contactDetails:
     email: "abc_prod_lead@abc.com"

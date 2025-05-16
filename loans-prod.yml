@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+accounts:
+  message: "Loans Service - PROD"
+  contactDetails:
+    email: "abc_prod_lead@abc.com"
+    phone: "1234567890"
+  onCallSupport:
+    enabled: true
+    phoneNumber: "1234567890"

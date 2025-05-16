@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+cards:
   message: "Accounts Service - QA"
   contactDetails:
     email: "abc_qa_lead@abc.com"

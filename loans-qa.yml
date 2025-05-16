@@ -1,6 +1,6 @@
 build:
   version: "2.0"
-accounts:
+loans:
   message: "Loans Service - QA"
   contactDetails:
     email: "abc_qa_lead@abc.com"

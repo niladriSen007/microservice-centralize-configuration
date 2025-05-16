@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+loans:
   message: "Loans Service - PROD"
   contactDetails:
     email: "abc_prod_lead@abc.com"

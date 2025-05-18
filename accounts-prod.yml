@@ -4,7 +4,7 @@ accounts:
   message: "Accounts Service - PROD"
   contactDetails:
     email: "{cipher}02a281f78c53fe4517456d4a612c6abee9fb413b1c03b07d84c94291d323de326dbb281abce2107c2dd23604f71bd5a8"
-    phone: "78365363563"
+    phone: "45345353345"
   onCallSupport:
     enabled: true
     phoneNumber: "1234567890"
